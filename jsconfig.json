@@ -1,0 +1,23 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "es5",
+        "checkJs": true,
+        "alwaysStrict": true,
+        "noUnusedLocals": true,
+        "noLib":true,
+        "newLine": "LF",
+        "rootDirs": [
+            "./node_modules/@types/express"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "typeAcquisition": {
+        "enable": true,
+        "include": [
+            "lodash"
+        ]
+    }
+}

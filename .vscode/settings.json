@@ -1,0 +1,12 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "cSpell.words": [
+        "Aleksandr",
+        "Sokolovskii",
+        "linebreak"
+    ],
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "eslint.enable": true,
+    "cSpell.enabled": true,
+    "javascript.implicitProjectConfig.checkJs": true
+}
