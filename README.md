@@ -1,1 +1,1 @@
-# cloud-functions-template
+# gcp-cloud-functions-starter
