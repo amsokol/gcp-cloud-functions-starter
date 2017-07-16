@@ -1,7 +1,7 @@
 {
-  "name": "gcp-cloud-functions-template",
+  "name": "gcp-cloud-functions-starter",
   "version": "1.0.0",
-  "description": "Google Cloud Platform Cloud Functions JavaScript template project",
+  "description": "Google Cloud Platform Cloud Functions JavaScript starter project",
   "main": "index.js",
   "scripts": {
     "deploy-local": "functions deploy helloWorld --trigger-http"
@@ -14,6 +14,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/amsokol/gcp-cloud-functions-template.git"
+    "url": "https://github.com/amsokol/gcp-cloud-functions-starter.git"
   }
 }
